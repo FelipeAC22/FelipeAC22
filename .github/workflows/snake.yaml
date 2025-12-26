@@ -2,13 +2,25 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # todos os dias à meia-noite UTC
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Faz checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Configura usuário Git para poder commitar/pushar
+      - name: Configurar usuário Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # Gera os SVGs da cobrinha
       - name: Gerar SVG da cobrinha
         uses: Platane/snk@v3
         with:
@@ -17,6 +29,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Publica os arquivos no branch output
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
