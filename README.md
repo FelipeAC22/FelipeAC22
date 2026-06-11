@@ -20,7 +20,7 @@ Interesso-me por diversas áreas além da programação, como IA, IoT, sistemas 
 * 🤝 Colaboração e trabalho em equipe
 * ⚡ Organização, proatividade e comprometimento
 
-## 🛠️ Conhecimentos
+## 🛠️ Tecnologias
 
 ### 💻 Linguagens
 
