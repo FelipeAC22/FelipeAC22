@@ -15,14 +15,6 @@ Atualmente, ainda sem experiência profissional, direciono meus estudos para o d
 
 Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, **sistemas operacionais** e **cibersegurança**
 
-### ✨ Perfil Profissional
-
-* 🔍 **Curioso e apaixonado por tecnologia**
-* 📚 **Rápido aprendizado e evolução constante**
-* 💡 **Resolução de problemas com criatividade e lógica**
-* 🤝 **Colaboração e trabalho em equipe**
-* ⚡ **Organização, proatividade e comprometimento**
-
 ---
 
 ## 🛠️ Tecnologias
