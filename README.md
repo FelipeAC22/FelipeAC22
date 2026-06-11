@@ -11,6 +11,8 @@ Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apa
 
 Atualmente, ainda sem experiência profissional, direciono meus estudos para o desenvolvimento de sistemas, explorando principalmente **Desenvolvimento Back-End**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
 
+---
+
 ## 🧠 Interesses
 
 Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, **sistemas operacionais** e **cibersegurança**
