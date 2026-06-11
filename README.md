@@ -40,7 +40,7 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ---
 
-## 📖 Conhecimentos complementar
+## 📖 Conhecimentos complementares
 
 * **Lógica de Programação**
 * **Estruturas de Dados**
