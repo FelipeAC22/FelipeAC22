@@ -16,8 +16,6 @@ Atualmente, direciono meus estudos para o desenvolvimento de sistemas **Back-End
 * 🤝 Colaboração e trabalho em equipe
 * ⚡ Organização, proatividade e comprometimento
 
----
-
 ## 🛠️ Conhecimentos
 
 ### 💻 Linguagens
