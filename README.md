@@ -47,3 +47,9 @@ Interesso-me por diversas áreas além da programação, como IA, IoT, sistemas 
 * Boas Práticas de Desenvolvimento
 * Sistemas Operacionais Linux e Windows
 * Modelagem e Manipulação de Banco de Dados
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAC22/FelipeAC22/output/animation.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeAC22/FelipeAC22/output/animation.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/FelipeAC22/FelipeAC22/output/animation.svg">
+</picture>
