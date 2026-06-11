@@ -1,52 +1,58 @@
-# 👨‍💻 Felipe Antunes
+# 👋 Olá, eu sou Felipe Antunes
 
-### Estudante de Desenvolvimento de Sistemas | Atualmente Desenvolvedor Back-End | Futuro Desenvolvedor Full Stack
-
----
-
-## 🚀 Sobre mim
-
-Olá! Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo** 
-
-Sou apaixonado por tecnologia e estou constantemente buscando novos desafios para expandir meus conhecimentos. Tenho interesse especial por **desenvolvimento back-end**, **desenvolvimento mobile**, **bancos de dados** e **Linux**.
-
-Mesmo no início da minha trajetória profissional, procuro transformar teoria em prática através de projetos, estudos independentes e aprendizado contínuo.
-
-✨ Algumas características que me definem:
-
-* 🔍 Curioso e sempre disposto a aprender
-* 💡 Gosto de resolver problemas e encontrar soluções criativas
-* 📚 Comprometido com a evolução constante
-* 🤝 Valorizo trabalho em equipe e colaboração
-* ⚡ Proativo e organizado
+### 💻 Estudante de Desenvolvimento de Sistemas | Back-End Developer | Futuro Full Stack Developer
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre Mim
+
+Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apaixonado por tecnologia e pela criação de soluções que geram impacto real.
+
+Atualmente, direciono meus estudos para o desenvolvimento **Back-End**, explorando também áreas como **Desenvolvimento Mobile**, **Banco de Dados** e **Linux**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
+
+### ✨ Perfil Profissional
+
+* 🔍 Curioso e apaixonado por tecnologia
+* 📚 Aprendizado contínuo e evolução constante
+* 💡 Resolução de problemas com criatividade e lógica
+* 🤝 Colaboração e trabalho em equipe
+* ⚡ Organização, proatividade e comprometimento
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Linguagens
 
-```txt
-JavaScript • TypeScript • Node.js • SQL
-```
+`JavaScript` • `TypeScript` • `SQL`
 
-### ⚙️ Ferramentas
+### ⚙️ Back-End
 
-```txt
-Git • GitHub • PostgreSQL
-```
+`Node.js`
 
-### 📖 Conhecimentos Complementares
+### 🗄️ Banco de Dados
+
+`PostgreSQL`
+
+### 🔧 Ferramentas
+
+`Git` • `GitHub`
+
+---
+
+## 📖 Conhecimentos complementares
 
 * Lógica de Programação
-* Versionamento de Código
+* Estruturas de Dados
+* Versionamento de Código com Git
 * Metodologias Ágeis
-* Boas Práticas de Usabilidade
-* Sistemas Operacionais
+* Boas Práticas de Desenvolvimento
+* Sistemas Operacionais Linux e Windows
+* Modelagem e Manipulação de Banco de Dados
 
 ---
 
 ## 🎯 Objetivo
 
-
-Meu objetivo é crescer como desenvolvedor, participando de ambientes que incentivem a inovação, o aprendizado contínuo e a construção de soluções que façam a diferença.
+Busco minha primeira oportunidade na área de Tecnologia como **Estagiário** ou **Jovem Aprendiz**, onde eu possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir para projetos inovadores enquanto evoluo profissionalmente.
+ 
