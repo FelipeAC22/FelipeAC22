@@ -4,9 +4,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apaixonado por tecnologia e pela criação de soluções que geram impacto real.
+Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, sou apaixonado por tecnologia e pela criação de soluções que geram mudança real.
 
-Atualmente, direciono meus estudos para o desenvolvimento de sistemas **Back-End**, mas explorando também áreas como **Desenvolvimento Mobile** e **Linux**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
+Atualmente, ainda sem experiência profissional, direciono meus estudos para o desenvolvimento de sistemas, explorando principalmente **Desenvolvimento Back-End**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
+
+### 🧠 Interesses
+
+Interesso-me por diversas áreas além da programação, como IA, IoT, sistemas operacionais e cibersegurança
 
 ### ✨ Perfil Profissional
 
@@ -43,8 +47,3 @@ Atualmente, direciono meus estudos para o desenvolvimento de sistemas **Back-End
 * Boas Práticas de Desenvolvimento
 * Sistemas Operacionais Linux e Windows
 * Modelagem e Manipulação de Banco de Dados
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade na área de Tecnologia como **Estagiário** ou **Jovem Aprendiz**, onde eu possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir para projetos inovadores enquanto evoluo profissionalmente.
- 
