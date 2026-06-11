@@ -3,8 +3,6 @@
   <h3>Seja bem-vindo ao meu perfil no GitHub!</h3>
 </div>
 
----
-
 ## 🚀 Sobre Mim
 
 Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apaixonado por tecnologia (e café ☕).
