@@ -1,7 +1,9 @@
 <div align="center">
   <h1>👋 Olá, eu sou Felipe Antunes</h1>
-  <h2>Seja bem-vindo ao meu perfil no GitHub!</h2>
+  <h3>Seja bem-vindo ao meu perfil no GitHub!</h3>
 </div>
+
+---
 
 ## 🚀 Sobre Mim
 
