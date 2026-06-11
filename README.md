@@ -69,8 +69,8 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ## 🔗 Links e Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
-[![Instagram](https://img.shields.io/badge/Instagram-Felipe%20Antunes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
+[![Instagram](https://img.shields.io/badge/Instagram-_o.antunes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes)
 
 ---
 
