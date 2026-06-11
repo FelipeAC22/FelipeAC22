@@ -32,7 +32,7 @@ Atualmente, direciono meus estudos para o desenvolvimento de sistemas **Back-End
 
 ### 🔧 Ferramentas
 
-`Git` • `GitHub` • `Figma`
+`Git` • `GitHub`
 
 ## 📖 Conhecimentos complementares
 
