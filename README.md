@@ -11,7 +11,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apa
 
 Atualmente, ainda sem experiência profissional, direciono meus estudos para o desenvolvimento de sistemas, explorando principalmente **Desenvolvimento Back-End**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
 
-### 🧠 Interesses
+## 🧠 Interesses
 
 Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, **sistemas operacionais** e **cibersegurança**
 
@@ -59,10 +59,10 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ---
 
-## 🔗 Links e Contatos
+## 🔗 Meus links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
-[![Instagram](https://img.shields.io/badge/Instagram-_o.antunes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes)
+[![Instagram](https://img.shields.io/badge/Instagram-o.antunes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes)
 
 ---
 
