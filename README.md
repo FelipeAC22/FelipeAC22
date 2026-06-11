@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Felipe Antunes</h1>
-  <h3>Seja bem-vindo ao meu perfil no GitHub!</h3>
+  <h3>Seja bem-vindo(a) ao meu perfil no GitHub!</h3>
 </div>
 
 ---
