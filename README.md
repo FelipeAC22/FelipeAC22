@@ -1,14 +1,12 @@
 # 👋 Olá, eu sou Felipe Antunes
 
-### 💻 Estudante de Desenvolvimento de Sistemas | Back-End Developer | Futuro Full Stack Developer
-
----
+### Seja bem-vindo ao meu perfil no GitHub!
 
 ## 🚀 Sobre Mim
 
 Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apaixonado por tecnologia e pela criação de soluções que geram impacto real.
 
-Atualmente, direciono meus estudos para o desenvolvimento **Back-End**, explorando também áreas como **Desenvolvimento Mobile**, **Banco de Dados** e **Linux**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
+Atualmente, direciono meus estudos para o desenvolvimento de sistemas **Back-End**, mas explorando também áreas como **Desenvolvimento Mobile** e **Linux**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
 
 ### ✨ Perfil Profissional
 
@@ -20,7 +18,7 @@ Atualmente, direciono meus estudos para o desenvolvimento **Back-End**, exploran
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Conhecimentos
 
 ### 💻 Linguagens
 
@@ -36,9 +34,7 @@ Atualmente, direciono meus estudos para o desenvolvimento **Back-End**, exploran
 
 ### 🔧 Ferramentas
 
-`Git` • `GitHub`
-
----
+`Git` • `GitHub` • `Figma`
 
 ## 📖 Conhecimentos complementares
 
@@ -49,8 +45,6 @@ Atualmente, direciono meus estudos para o desenvolvimento **Back-End**, exploran
 * Boas Práticas de Desenvolvimento
 * Sistemas Operacionais Linux e Windows
 * Modelagem e Manipulação de Banco de Dados
-
----
 
 ## 🎯 Objetivo
 
