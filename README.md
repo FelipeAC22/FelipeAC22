@@ -33,10 +33,17 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Ferramentas
+### 💻 IDEs
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔧 Outras Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -49,6 +56,13 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 * **Boas Práticas de Desenvolvimento**
 * **Sistemas Operacionais Linux e Windows**
 * **Modelagem e Manipulação de Banco de Dados**
+
+---
+
+## 🔗 Links e Contatos
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-antunes-cardoso-814408393) — Conecte-se comigo no LinkedIn!
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes) — Siga-me no Instagram
 
 ---
 
