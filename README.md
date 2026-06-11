@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Felipe Antunes</h1>
-  <h3>Seja bem-vindo(a) ao meu perfil no GitHub!</h3>
+  <h3>Seja bem-vindo ao meu perfil no GitHub!</h3>
 </div>
 
 ---
@@ -14,6 +14,14 @@ Atualmente, ainda sem experiência profissional, direciono meus estudos para o d
 ### 🧠 Interesses
 
 Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, **sistemas operacionais** e **cibersegurança**
+
+### ✨ Perfil Profissional
+
+* 🔍 **Curioso e apaixonado por tecnologia**
+* 📚 **Rápido aprendizado e evolução constante**
+* 💡 **Resolução de problemas com criatividade e lógica**
+* 🤝 **Colaboração e trabalho em equipe**
+* ⚡ **Organização, proatividade e comprometimento**
 
 ---
 
@@ -47,7 +55,7 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ---
 
-## 📖 Conhecimentos complementares
+## 📖 Conhecimentos complementar
 
 * **Lógica de Programação**
 * **Estruturas de Dados**
@@ -61,8 +69,8 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ## 🔗 Links e Contatos
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-antunes-cardoso-814408393) — Conecte-se comigo no LinkedIn!
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes) — Siga-me no Instagram
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
+[![Instagram](https://img.shields.io/badge/Instagram-Felipe%20Antunes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_o.antunes)
 
 ---
 
