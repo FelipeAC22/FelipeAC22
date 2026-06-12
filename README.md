@@ -56,6 +56,13 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ---
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAC22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAC22&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🔗 Meus links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
