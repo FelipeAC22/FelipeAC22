@@ -56,10 +56,10 @@ Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, *
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAC22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAC22&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAC22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAC22&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 ---
 
