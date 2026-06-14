@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas** no **Senac São Leopoldo**, apaixonado por tecnologia (e café ☕).
+Sou estudante de **Desenvolvimento de Sistemas** e Desenvolvedor Back-End, sou apaixonado por tecnologia (e café ☕).
 
 Atualmente, ainda sem experiência profissional, direciono meus estudos para o desenvolvimento de sistemas, explorando principalmente **Desenvolvimento Back-End**. Busco constantemente transformar conhecimento teórico em experiência prática por meio de projetos, desafios e aprendizado contínuo.
 
