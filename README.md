@@ -13,7 +13,7 @@ Atualmente, ainda sem experiência profissional, direciono meus estudos para o d
 
 ### 🧠 Interesses
 
-Interesso-me por diversas áreas além da programação, como **IA**, **IoT**, **sistemas operacionais** e **redes**
+Além da programação, busco ampliar meus conhecimentos em áreas como **Inteligência Artificial (IA)**, **Internet das Coisas (IoT)**, **Sistemas Operacionais**, **Redes de Computadores e infraestrutura de tecnologia**.
 
 ---
 
