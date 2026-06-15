@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 📖 Sobre Mim
 
 Sou estudante de **Desenvolvimento de Sistemas** e Desenvolvedor Back-End, sou apaixonado por tecnologia (e café ☕).
 
