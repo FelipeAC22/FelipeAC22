@@ -65,6 +65,9 @@ Além da programação, busco ampliar meus conhecimentos em áreas como **Inteli
 
 ## 🔗 Meus links
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipe-antunes-cardoso-814408393" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-antunes-cardoso-814408393?trk=profile-badge">Felipe Antunes Cardoso</a></div>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso-814408393)
 
 ---
