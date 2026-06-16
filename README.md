@@ -13,6 +13,7 @@ Meu foco está no desenvolvimento back-end, com atuação prática em JavaScript
 Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, bancos de dados relacionais e boas práticas de desenvolvimento de software.
 
 💻 Habilidades técnicas (hard skills):
+
 • Linguagens: JavaScript, TypeScript, Node.js, SQL
 • Banco de dados: PostgreSQL
 • Ferramentas: Git, GitHub
@@ -21,6 +22,7 @@ Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me p
 • Conceitos: Lógica de programação, POO, versionamento de código, boas práticas de usabilidade
 
 🤝 Habilidades comportamentais (soft skills):
+
 • Proatividade, trabalho em equipe, organização, aprendizado contínuo e resolução de problemas
 
 ### 🧠 Interesses
