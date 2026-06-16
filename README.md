@@ -7,26 +7,45 @@
 
 ## 📖 Sobre Mim
 
-Tenho 18 anos e curso Desenvolvimento de Sistemas no Senac São Leopoldo, apaixonado por tecnologia (e café ☕). 
-Meu foco está no desenvolvimento back-end, com atuação prática em JavaScript, TypeScript, Node.js e SQL.
+Tenho 18 anos e curso Desenvolvimento de Sistemas no Senac São Leopoldo, sou apaixonado por tecnologia (e café ☕).
+
+Meu foco está no **desenvolvimento back-end**, com atuação prática em JavaScript, TypeScript, Node.js e SQL.
 
 Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, bancos de dados relacionais e boas práticas de desenvolvimento de software.
 
-### 💻 Habilidades técnicas (hard skills):
-**• Linguagens: JavaScript, TypeScript, Node.js, SQL**
-**• Banco de dados: PostgreSQL**
-**• Ferramentas: Git, GitHub**
-**• Sistemas Operacionais: Windows e Linux**
-**• Metodologias: Ágeis (Scrum/Kanban)**
-**• Conceitos: Lógica de programação, POO, versionamento de código, boas práticas de usabilidade**
+---
 
-### 🤝 Habilidades comportamentais (soft skills):
+### 💻 Habilidades técnicas (hard skills)
 
-**• Proatividade, trabalho em equipe, organização, aprendizado contínuo e resolução de problemas**
+| Categoria | Tecnologias |
+|-----------|-------------|
+| 🗣️ Linguagens | JavaScript, TypeScript, Node.js, SQL |
+| 🗄️ Banco de dados | PostgreSQL |
+| 🔧 Ferramentas | Git, GitHub, VS Code |
+| 🖥️ Sistemas Operacionais | Windows e Linux |
+| 📋 Metodologias | Ágeis (Scrum / Kanban) |
+| 🧩 Conceitos | Lógica de programação, POO, versionamento de código, boas práticas de usabilidade |
+
+---
+
+### 🤝 Habilidades comportamentais (soft skills)
+
+- ⚡ Proatividade
+- 👥 Trabalho em equipe
+- 📂 Organização
+- 📚 Aprendizado contínuo
+- 🔍 Resolução de problemas
+  
+ ---
 
 ### 🧠 Interesses
 
-Além da programação, busco ampliar meus conhecimentos em áreas como **Inteligência Artificial (IA)**, **Internet das Coisas (IoT)**, **Sistemas Operacionais**, **Redes de Computadores e infraestrutura de tecnologia**.
+Além da programação, busco ampliar meus conhecimentos em:
+
+- 🤖 Inteligência Artificial (IA)
+- 🌐 Internet das Coisas (IoT)
+- 🖥️ Sistemas Operacionais
+- 🔌 Redes de Computadores e infraestrutura de tecnologia
 
 ---
 
