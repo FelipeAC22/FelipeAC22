@@ -23,7 +23,7 @@ Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me p
 | 🗄️ Banco de dados | PostgreSQL |
 | 🔧 Ferramentas | Git, GitHub, VS Code |
 | 🖥️ Sistemas Operacionais | Windows e Linux |
-| 📋 Metodologias | Ágeis (Scrum / Kanban) |
+| 📋 Metodologias Ágeis | Kanban |
 | 🧩 Conceitos | Lógica de programação, POO, versionamento de código, boas práticas de usabilidade |
 
 ---
