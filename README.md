@@ -19,9 +19,9 @@ Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me p
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| 🗣️ Linguagens | JavaScript, TypeScript, Node.js, SQL |
-| 🗄️ Banco de dados | PostgreSQL |
-| 🔧 Ferramentas | Git, GitHub, VS Code |
+| 🗣️ Linguagens | JavaScript, TypeScript/React native, Node.js e SQL |
+| 🗄️ Banco de dados | PostgreSQL e Supabase |
+| 🔧 Ferramentas | Git, GitHub, VSCode e NetBeans |
 | 🖥️ Sistemas Operacionais | Windows e Linux |
 | 📋 Metodologias Ágeis | Kanban |
 | 🧩 Conceitos | Lógica de programação, POO, versionamento de código, boas práticas de usabilidade |
