@@ -76,13 +76,6 @@ Além da programação, busco ampliar meus conhecimentos em:
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAC22&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAC22&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🔗 Meus links
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Antunes%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-antunes-cardoso)
