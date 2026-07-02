@@ -9,9 +9,9 @@
 
 Tenho 18 anos e curso Desenvolvimento de Sistemas no Senac São Leopoldo, sou apaixonado por tecnologia (e café ☕).
 
-Meu foco está no **desenvolvimento back-end**, com atuação prática em JavaScript, TypeScript e SQL.
+Meu foco está no **desenvolvimento back-end**, com atuação prática em JavaScript, TypeScrip, React Native e SQL.
 
-Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, bancos de dados relacionais e boas práticas de desenvolvimento de software.
+Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, desenvolvimento mobile, bancos de dados e boas práticas de desenvolvimento de software.
 
 ---
 
@@ -21,8 +21,7 @@ Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me p
 |-----------|-------------|
 | 🗣️ Linguagens | JavaScript, TypeScript/React native, Node.js e SQL |
 | 🗄️ Banco de dados | PostgreSQL e Supabase |
-| 🔧 Ferramentas | Git, GitHub, VSCode e NetBeans |
-| 🖥️ Sistemas Operacionais | Windows e Linux |
+| 🔧 Ferramentas | Git, GitHub, Linux, VSCode e NetBeans |
 | 📋 Metodologias Ágeis | Kanban |
 | 🧩 Conceitos | Lógica de programação, POO, versionamento de código, boas práticas de usabilidade |
 
