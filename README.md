@@ -9,7 +9,7 @@
 
 Tenho 18 anos e curso Desenvolvimento de Sistemas no Senac São Leopoldo, sou apaixonado por tecnologia (e café ☕).
 
-Meu foco está no **desenvolvimento back-end**, com atuação prática em JavaScript, TypeScrip, React Native e SQL.
+Meu foco está no **desenvolvimento back-end**, com atuação prática em JavaScript, TypeScript, React Native e SQL.
 
 Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, desenvolvimento mobile, bancos de dados e boas práticas de desenvolvimento de software.
 
