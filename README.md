@@ -7,11 +7,9 @@
 
 ## 📖 Sobre Mim
 
-Tenho 18 anos e curso Desenvolvimento de Sistemas no Senac São Leopoldo, sou apaixonado por tecnologia (e café ☕).
+Desenvolvedor de Software em formação, cursando Desenvolvimento de Sistemas no Senac São Leopoldo (RS). Atualmente estagiando em Infraestrutura de Redes na New Life Net. 
 
-Meu foco está no **desenvolvimento back-end e mobile**, com atuação prática em JavaScript, TypeScript, React Native e SQL.
-
-Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me permitem aplicar conhecimentos reais em programação orientada a objetos (POO), APIs, desenvolvimento mobile, bancos de dados e boas práticas de desenvolvimento de software.
+Utilizo JavaScript, TypeScript, Node.js e SQL, aplicando esses conhecimentos em projetos reais, do banco de dados à interface e já desenvolvi projetos completos que comprovam domínio prático de POO, integração de APIs, autenticação, bancos de dados relacionais e boas práticas de desenvolvimento.
 
 ---
 
@@ -19,7 +17,7 @@ Mesmo sem experiência formal no mercado, desenvolvo projetos práticos que me p
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| 🗣️ Linguagens | JavaScript, TypeScript/React native, Node.js e SQL |
+| 🗣️ Linguagens | JavaScript, TypeScript, Node.js e SQL |
 | 🗄️ Banco de dados | PostgreSQL e Supabase |
 | 🔧 Ferramentas | Git, GitHub, Linux, VSCode e NetBeans |
 | 📋 Metodologias Ágeis | Kanban |
