@@ -7,7 +7,7 @@
 
 ## 📖 Sobre Mim
 
-Estudante de Desenvolvimento de Sistemas no Senac São Leopoldo (RS), atuando como Estagiário de Infraestrutura no Grupo New Life. Estou construindo minha trajetória na intersecção entre desenvolvimento e infraestrutura, com o objetivo de me especializar em DevOps, com foco crescente em segurança de infraestrutura e pipelines (DevSecOps).
+Estudante de Desenvolvimento de Sistemas no Senac São Leopoldo (RS), atuando como Estagiário de Infraestrutura na New Life Net. Estou construindo minha trajetória na intersecção entre desenvolvimento e infraestrutura, com o objetivo de me especializar em DevOps, com foco crescente em segurança de infraestrutura e pipelines (DevSecOps).
 
 ---
 
