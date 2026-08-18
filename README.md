@@ -7,9 +7,7 @@
 
 ## 📖 Sobre Mim
 
-Desenvolvedor de Software em formação, cursando Desenvolvimento de Sistemas no Senac São Leopoldo (RS). Atualmente estagiando em Infraestrutura de Redes na New Life Net. 
-
-Utilizo JavaScript, TypeScript, Node.js e SQL, aplicando esses conhecimentos em projetos reais, do banco de dados à interface e já desenvolvi projetos completos que comprovam domínio prático de POO, integração de APIs, autenticação, bancos de dados relacionais e boas práticas de desenvolvimento.
+Estudante de Desenvolvimento de Sistemas no Senac São Leopoldo (RS), atuando como Estagiário de Infraestrutura no Grupo New Life. Estou construindo minha trajetória na intersecção entre desenvolvimento e infraestrutura, com o objetivo de me especializar em DevOps, com foco crescente em segurança de infraestrutura e pipelines (DevSecOps).
 
 ---
 
